@@ -1,0 +1,14 @@
+{
+  "name": "openshift-guru",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Viet Nguyen<vnguyen@redhat.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
+
